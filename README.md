@@ -16,8 +16,8 @@
 
 ## 포함 자료
 1. 프로젝트 기획서
-   - 1.[Proposal] AI-Based Dyslipidemia Risk Prediction
+   - [Proposal] AI-Based Dyslipidemia Risk Prediction
 2. 개발 스케줄
-   - 2. [Schedule] Development Schedule
+   - [Schedule] Development Schedule
 3. 화면 설계서
-   - 3. [Screen Design] AI-Based Dyslipidemia Risk Prediction
+   - [Screen Design] AI-Based Dyslipidemia Risk Prediction
